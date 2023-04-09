@@ -14,6 +14,7 @@ create table company.employee (
     PRIMARY KEY (Ssn)
 );
 
+
 use company;
 create table departmant (
 	Dname varchar(15) not null,
